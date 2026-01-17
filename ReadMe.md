@@ -12,8 +12,8 @@ I’m a builder who learns by doing.<br><br>I work on ideas, apps, and experimen
 ![](https://nirzak-streak-stats.vercel.app/?user=ThePraveenEffect&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePraveenEffect&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ThePraveenEffect&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ThePraveenEffect&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
