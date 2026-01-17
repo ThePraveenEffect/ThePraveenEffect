@@ -1,5 +1,13 @@
 # 💫 About Me:
-I’m a builder who learns by doing.<br><br>I work on ideas, apps, and experiments that help me understand how systems actually work — from development and security to productivity and real-world problem solving. I don’t just follow tutorials; I test things, break them, fix them, and share what I learn along the way.<br><br>Right now, I’m focused on building projects, improving my fundamentals, and documenting my journey through code and content. I believe real growth comes from consistency, curiosity, and shipping — even when things aren’t perfect.<br><br>I’m open to collaboration, feedback, a
+
+I’m a builder who learns by doing.<br><br>
+
+I work on ideas, apps, and experiments that help me understand how systems actually work — from development and security to productivity and real-world problem solving. I don’t just follow tutorials; I test things, break them, fix them, and share what I learn along the way.
+<br><br>
+Right now, I’m focused on building projects, improving my fundamentals, and documenting my journey through code and content. I believe real growth comes from consistency, curiosity, and shipping — even when things aren’t perfect.
+<br><br>
+I’m open to collaboration, feedback, and conversations with people who care about building meaningful things and getting better over time.
+
 
 
 ## 🌐 Socials:
